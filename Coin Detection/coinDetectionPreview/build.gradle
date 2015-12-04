@@ -1,0 +1,23 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 14
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+        applicationId 'mk.mtrajk.ons.coinDetection'
+        minSdkVersion 8
+        targetSdkVersion 8
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile project(':openCVLibrary2411')
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mtrajk/Dropbox/ФАКУЛТЕТ/6 semestar/Обработка на слика/Coin Detection Project/Coin Detection/coinDetectionPreview/build/intermediates/exploded-aar/Coin Detection/openCVLibrary2411/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a84ddd8029346e9077bd9016af19614865810f32">
+        <dex dex="/home/mtrajk/Dropbox/ФАКУЛТЕТ/6 semestar/Обработка на слика/Coin Detection Project/Coin Detection/coinDetectionPreview/build/intermediates/pre-dexed/debug/classes-22417e6b0343b64f7747e69545e946f7aa600e56.jar" />
+    </item>
+    <item
+        jar="/home/mtrajk/AndroidStudioProjects/Coin Detection/coinDetectionPreview/build/intermediates/exploded-aar/Coin Detection/openCVLibrary2411/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3ca92e6524f24eb1c5a937ecb6d5adfc5a8a2849">
+        <dex dex="/home/mtrajk/AndroidStudioProjects/Coin Detection/coinDetectionPreview/build/intermediates/pre-dexed/debug/classes-1cb2b3336b6c6a0dac419b88d56c669be2728d0d.jar" />
+    </item>
+
+</items>
