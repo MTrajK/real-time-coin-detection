@@ -8,11 +8,13 @@ Using [OpenCV 2.4](https://opencv.org/) library for image processing.
 
 ## Installing
 
-1. [Build](https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/android_dev_intro.html) the Android project located in [Coin Detection](https://github.com/MTrajK/real-time-coin-detection/tree/master/Coin%20Detection) directory (using [Android Studio](https://developer.android.com/studio), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Eclipse](https://www.eclipse.org/), etc).
+1. Install and configure [Android SDK + Android IDE](http://www.androiddocs.com/sdk/index.html), after that install [OpenCV](https://opencv.org/android/) for Android SDK
 
-2. Install [OpenCV Manager](https://docs.opencv.org/2.4/platforms/android/service/doc/index.html) on your phone ([Google Play link](https://play.google.com/store/apps/details?id=org.opencv.engine)). 
+2. [Build](https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/android_dev_intro.html) the Android project located in [Coin Detection](https://github.com/MTrajK/real-time-coin-detection/tree/master/Coin%20Detection) directory (using [Android Studio](https://developer.android.com/studio), [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Eclipse](https://www.eclipse.org/), etc).
 
-3. Install the build (from the first step) on your phone.
+3. Install [OpenCV Manager](https://docs.opencv.org/2.4/platforms/android/service/doc/index.html) on your phone ([Google Play link](https://play.google.com/store/apps/details?id=org.opencv.engine)). 
+
+4. Install the APK (from the second step) on your phone.
 
 ## Description
 
